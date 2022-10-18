@@ -2,7 +2,7 @@
 
 **Parsestagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
@@ -27,8 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![vidma_recorder_16102022_184237_AdobeExpress (1)](https://user-images.githubusercontent.com/85243009/196062304-d80594cb-c2cb-4145-90c2-6c8cdfe24186.gif)
-
+<img src='https://imgur.com/Mkbc6Oa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with VidmaRecorder.
 
