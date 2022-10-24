@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
                     fragmentToShow = FeedFragment()
                 }
                 R.id.action_compose -> {
-
+                    fragmentToShow = ComposeFragment()
                 }
                 R.id.action_profile -> {
                     fragmentToShow = ProfileFragment()
