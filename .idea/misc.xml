@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Users/zoeme/AndroidStudioProjects/Parsestagram/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/zoeme/AndroidStudioProjects/Parsestagram/app/src/main/res/layout/activity_main.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/zoeme/AndroidStudioProjects/Parsestagram/app/src/main/res/layout/fragment_compose.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/zoeme/AndroidStudioProjects/Parsestagram/app/src/main/res/layout/fragment_feed.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/zoeme/AndroidStudioProjects/Parsestagram/app/src/main/res/layout/item_post.xml" value="0.1265625" />
+        <entry key="..\:/Users/zoeme/AndroidStudioProjects/Parsestagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.12760416666666666" />
         <entry key="..\:/Users/zoeme/AndroidStudioProjects/Parsestagram/app/src/main/res/xml/fileprovider.xml" value="0.15416666666666667" />
       </map>
     </option>
