@@ -34,8 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/85243009/197639656-503ee8bc-af02-467b-ad1e-05919afb0a4b.mp4
-
+<img src='https://imgur.com/a/dXVTx6u' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with VidmaRecorder.
 
